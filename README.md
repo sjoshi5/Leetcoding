@@ -3,8 +3,8 @@
 
 | Question | Solution(s) | Tag(s) |
 |----------|-------------|--------|
-|[Name of the Problem](https://leetcode.com/problems/name-of-the-problem/)| [Sol]() | relevant tag|
 
+|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)| [Sol](./src/easy/Sri_pangram_day1.py) | string|
 
 
 # Contributor👩‍💻
@@ -16,5 +16,3 @@
 
 <a href="https://github.com/sriinampudi">
 <h5 align="center"><b>Srividya</b></a
-
-
