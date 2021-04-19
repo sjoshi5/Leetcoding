@@ -11,10 +11,10 @@
 
 
 <p align="center">
-<img width=20% src="https://avatars.githubusercontent.com/u/40795403?v=4">&ensp;&ensp;&ensp;
+<img width=20% src="https://avatars.githubusercontent.com/u/68729393?v=4">&ensp;&ensp;&ensp;
 </p>
 
-<a href="https://github.com/sriinampudi">
-<h5 align="center"><b>Srividya</b></a
+<a href="https://github.com/mehrab97">
+<h5 align="center"><b>Mehrab Singh Gill</b></a
 
 
