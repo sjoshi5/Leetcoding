@@ -3,7 +3,6 @@
 
 | Question | Solution(s) | Tag(s) |
 |----------|-------------|--------|
-
 |[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)| [Sol](./src/easy/Sri_pangram_day1.py) | string|
 
 
